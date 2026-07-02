@@ -1,7 +1,7 @@
 # Amazon Product Analysis Dashboard
 
 ## 📌 Overview
-This project analyzes Amazon product data to uncover insights into pricing strategies, discounts, customer ratings, and revenue performance. The dashboard highlights **expected vs. actual revenue**, **profit/loss tracking**, and **customer engagement metrics**.
+This project analyzes Amazon product data to uncover insights into pricing strategies, discounts, customer ratings, and revenue performance. The dashboard highlights **expected vs. actual revenue**, comparative analysis, and key performance metrics.
 
 ---
 
@@ -56,11 +56,11 @@ The main prepared dataset is `Amazon_Analysis_Ready_Final I MADE.xlsx` — open 
 
 ## 📷 Screenshots
 
-![Revenue vs Discount](assets/screenshots/revenue_vs_discount.svg)
+![Revenue vs Discount](revenue_vs_discount.png.png)
 
-![Rating Distribution](assets/screenshots/rating_distribution.svg)
+![Rating Distribution](rating_distribution.png.png)
 
-![Top Products](assets/screenshots/top_products.svg)
+![Top Products](top_products.png.png)
 
 ---
 
@@ -73,7 +73,3 @@ If you'd like a full name, email, or website listed here, reply with the details
 
 ## 🤝 Contributing
 Contributions are welcome. Open an issue or submit a pull request with improvements, fixes, or additional visualizations.
-
----
-
-
