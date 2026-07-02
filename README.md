@@ -76,5 +76,4 @@ Contributions are welcome. Open an issue or submit a pull request with improveme
 
 ---
 
-## 📄 License
-This repository is licensed under the MIT License. See `LICENSE` for details.
+
